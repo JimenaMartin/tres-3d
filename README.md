@@ -1,10 +1,12 @@
-<<<<<<< HEAD
-# Vue 3 + TypeScript + Vite
-
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
-=======
 # tres-3d
-Playing around with vue and tresJA
->>>>>>> 049739e6221473b0ecc568e027adaeca94c57fe6
+Playing around with vue and tresJS library
+
+1. Download repo
+2. Install dependencies `npm i`
+3. Run project `npm run dev`
+
+   
+![Captura de pantalla 2024-10-24 a las 16 18 49](https://github.com/user-attachments/assets/7db863af-91bb-4fc8-889c-818936bf765e)
+
+
+
